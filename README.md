@@ -1,20 +1,22 @@
 🌫️ Air-Quality-Dataset-Analysis-EDA
 🚀 Challenge of the Month Project
-This project involves a comprehensive exploratory data analysis and visualization of an air quality dataset. The primary aim is to uncover meaningful patterns and relationships that can provide insights into air pollution trends and sensor data behavior.
+This project involves a comprehensive exploratory data analysis and visualisation of an air quality dataset. The primary aim is to uncover meaningful patterns and relationships that can provide insights into air pollution trends and sensor data behaviour.
 
 📊 Dataset Source
 https://www.kaggle.com/datasets/nishantbhadauria/datasetucimlairquality
 
-📁 Contents of This Repository
+📁 Contents of This Repository 
+
 📌 Overview of the dataset
 
 🔍 Exploratory Data Analysis (EDA)
 
-📈 Interactive and static visualizations
+📈 Interactive and static visualisations
 
 🧠 Key insights and patterns identified from the data
 
 ⚙️ Tools and Libraries Used
+
 matplotlib
 
 seaborn
