@@ -3,7 +3,7 @@
 This project involves a comprehensive exploratory data analysis and visualization of an air quality dataset. The primary aim is to uncover meaningful patterns and relationships that can provide insights into air pollution trends and sensor data behavior.
 
 📊 Dataset Source
-UCI Air Quality Dataset on Kaggle
+https://www.kaggle.com/datasets/nishantbhadauria/datasetucimlairquality
 
 📁 Contents of This Repository
 📌 Overview of the dataset
