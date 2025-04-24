@@ -1,4 +1,5 @@
-##🌫️ Air-Quality-Dataset-Analysis-EDA
+🌫️ Air-Quality-Dataset-Analysis-EDA
+
 🚀 Challenge of the Month Project
 This project involves a comprehensive exploratory data analysis and visualisation of an air quality dataset. The primary aim is to uncover meaningful patterns and relationships that can provide insights into air pollution trends and sensor data behaviour.
 
