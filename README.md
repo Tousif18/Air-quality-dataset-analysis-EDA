@@ -1,11 +1,11 @@
-🌫️ Air-Quality-Dataset-Analysis-EDA
+##🌫️ Air-Quality-Dataset-Analysis-EDA
 🚀 Challenge of the Month Project
 This project involves a comprehensive exploratory data analysis and visualisation of an air quality dataset. The primary aim is to uncover meaningful patterns and relationships that can provide insights into air pollution trends and sensor data behaviour.
 
 📊 Dataset Source
 https://www.kaggle.com/datasets/nishantbhadauria/datasetucimlairquality
 
-📁 Contents of This Repository 
+📁 Contents of This Repository: 
 
 📌 Overview of the dataset
 
@@ -17,16 +17,16 @@ https://www.kaggle.com/datasets/nishantbhadauria/datasetucimlairquality
 
 ⚙️ Tools and Libraries Used
 
-matplotlib
+● Matplotlib
 
-seaborn
+● Seaborn
 
-plotly
+● Plotly
 
 💻 Requirements
-Python 2.7 / 3.6+
+● Python 2.7 / 3.6+
 
-Jupyter Notebook
+● Jupyter Notebook
 
 📝 Dataset Description
 The dataset comprises 9,358 hourly records collected using 5 metal oxide chemical sensors integrated into an air quality monitoring device. This device was deployed at roadside level in a highly polluted area of an Italian city.
